@@ -11,7 +11,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is not a open source project but if you want it repo or bot then contact @KGN_OWNER_BOT. 
+- Mahesh Babu is not a open source project but if you want it repo or bot then contact @KGN_OWNER_BOT. 
 - Source - @KGN_OWNER_BOT  
 
 <b>DEV:</b>
